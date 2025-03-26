@@ -54,19 +54,19 @@
 }
 
 .logo1{
-    margin-right: 76px;
+    margin-right: 70px;
 }
 
 .logo2{
-    margin-right: 88px;
+    margin-right: 82px;
 }
 
 .logo3{
-    margin-right: 86px;
+    margin-right: 80px;
 }
 
 .logo4{
-    margin-right: 98px;
+    margin-right: 92px;
 }
 
 .anchor-title{
@@ -90,7 +90,7 @@
 .link-item{
     background-color: black;
     margin: 10px 0px 10px 0px;
-    width: 350px;
+    width: 335px;
     border-radius: 40px;
     border: 1px solid white;
     display: flex;

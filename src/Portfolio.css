@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.main-div{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('https://github.com/Kowshik-8055/Simple-Portfolio-Page/blob/main/Untitleddesign1-ezgif.com-video-to-gif-converter%20(1).gif?raw=true');
+    background-size: cover;
+    background-position: center;
+}
+
+.bio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px 0px 25px 0px;
+}
+
+.profile-img{
+    height: 300px;
+    width: 300px;
+}
+
+.name{
+    font-family: 'Kanit';
+    font-size: 35px; 
+    text-align: center;
+    margin-bottom: 14px;
+    overflow-y: hidden;
+}
+
+.role{
+    font-family: 'Montserrat';
+    font-weight: 250;
+    font-size: 16px;
+    letter-spacing: 2.5px;
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+.location{
+    font-family: 'Poppins';
+    font-size: 15px;
+    text-align: center;
+}
+
+.logo-img{
+    height: 60px;
+}
+
+.logo1{
+    margin-right: 85px;
+}
+
+.logo2{
+    margin-right: 96px;
+}
+
+.logo3{
+    margin-right: 94px;
+}
+
+.logo4{
+    margin-right: 106px;
+}
+
+.anchor-title{
+    color: white;
+    font-family: 'Kanit';
+    font-size: 18px;
+}
+
+.anchor-title:hover{
+    color: white;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.link-item{
+    background-color: black;
+    margin: 10px 0px 10px 0px;
+    width: 375px;
+    border-radius: 40px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+}
